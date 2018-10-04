@@ -7,7 +7,7 @@ declared-services:
     label: tone_analyzer
     plan: standard
 applications:
-- name: food-coach
+- name: elsawiesel
   command: npm start
   path: .
   instances: 1
